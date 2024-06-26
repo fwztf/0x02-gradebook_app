@@ -1,16 +1,18 @@
 # gradebook_app
-The second project under the FCC JS algorithms and data structures curriculum
+Project Overview
+This is the second project under the FreeCodeCamp (FCC) JavaScript Algorithms and Data Structures curriculum.
 
-the app is a combination of 4 different functions, marked from steps 1 - 4
+The application consists of four functions, each representing a different step:
 
-step 1:
-a function to compute the average of class scores from an array "scores" the function takes in an array as an argument and returns the average of scores in it
+Step 1: Compute Average Score
+A function to compute the average of class scores from an array called scores. The function takes an array as an argument and returns the average of the scores.
 
-step 2:
-a function that returns a string that represents a student's grade (A++ to F) based on their score (0 to 100)
+Step 2: Grade Representation
+A function that returns a string representing a student's grade (from A++ to F) based on their score (0 to 100).
 
-step 3:
-a function that checks whether or not a student has a passing grade. A passing grade is defined as any grade that is NOT an "F"
+Step 3: Check Passing Grade
+A function that checks whether a student has a passing grade. A passing grade is defined as any grade that is NOT an "F".
 
-step 4:
-a function that prints a message to the student whether or not they passed, based on the return value of the previous function
+Step 4: Pass/Fail Message
+A function that prints a message to the student indicating whether or not they passed, based on the return value of the previous function.
+
