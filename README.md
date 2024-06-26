@@ -15,4 +15,4 @@ The application consists of four functions, each representing a different step:
 - checks whether a student has a passing grade. A passing grade is defined as any grade that is NOT an "F".
 
 ### studentMsg(totalScores, studentScore)
-- prints a message to the student indicating whether or not they passed, based on the return value of "hasPassingGrade(score)".
+- prints a message to the student indicating whether or not they passed, based on the return value of **hasPassingGrade(score)**.
