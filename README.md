@@ -5,7 +5,8 @@ The application consists of four functions, each representing a different step:
 
 ## Functions
 ### getAverage(scores)
-- computes the average of class scores from an array called scores. The function takes an array as an argument and returns the average of the scores.
+- computes the average class score from an array called scores.
+- takes an array as an argument and returns the average of the scores.
 
 ### getGrade(score)
 - returns a string representing a student's grade (from A++ to F) based on their score (0 to 100).
@@ -14,4 +15,4 @@ The application consists of four functions, each representing a different step:
 - checks whether a student has a passing grade. A passing grade is defined as any grade that is NOT an "F".
 
 ### studentMsg(totalScores, studentScore)
-- prints a message to the student indicating whether or not they passed, based on the return value of the previous function.
+- prints a message to the student indicating whether or not they passed, based on the return value of 'hasPassingGrade(score)'.
