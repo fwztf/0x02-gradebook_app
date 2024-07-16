@@ -1,6 +1,5 @@
 # gradebook_app
-# Project Overview
-This is the second project under the FreeCodeCamp (FCC) JavaScript Algorithms and Data Structures curriculum.
+## Project Overview
 The application consists of four functions, each representing a different step:
 
 ## Functions
